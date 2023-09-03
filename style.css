@@ -56,7 +56,7 @@
    text-align: center;
  }
 .text-box h1{
-   font-size: 50px;
+   font-size: 62px;
 }
 .text-box p{
    margin: 10px 0 40px;
@@ -64,7 +64,7 @@
    color: #fff;
 }
 .hero-btn{
-   display: inline-block;
+    display: inline-block;
    text-decoration: none;
    color: #fff;
    border: 1px solid #fff;
@@ -85,8 +85,8 @@ nav .fa{
 }
 
 @media(max-width:700px){
-   .text-box h1{
-      font: size 62px;
+   .text-box h1{  
+      font: size 20px;
    }
    .nav-links ul li{
       display: block;
@@ -127,7 +127,7 @@ h1{
    font-weight: 600;
 }
 p{
-   color:#e3dddd;
+   color:#f3eeee;
    font-size: 14px;
    font-weight: 300;
    line-height: 22px;
@@ -140,7 +140,7 @@ p{
 }
 .Skills-col{
    flex-basis: 31%;
-   background: #fff3f3;
+   background: #b15a5a;
    border-radius: 10px;
    margin-bottom: 1%;
    padding: 20px 5px;
@@ -149,6 +149,7 @@ p{
 }
 h3{
    text-align: center;
+   color: #fff;
    font-weight: 600;
    margin: 10x 0;
 }
