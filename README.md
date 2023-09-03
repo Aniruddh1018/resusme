@@ -1,2 +1,2 @@
-# resusme
+High tech student
 student website
